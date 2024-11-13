@@ -1,2 +1,0 @@
-1. Command:- git -v
-             :=> It will display the version of git which installed in our system.
